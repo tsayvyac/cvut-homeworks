@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/maze_opt.dir/main.cpp.o -o maze_opt 

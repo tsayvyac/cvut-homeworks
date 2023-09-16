@@ -1,0 +1,6 @@
+/mnt/c/Users/slava/OneDrive/Documents/Studium/FEL SIT/FEL SIT 3/PCC/crusoe/cmake-build-debug/CMakeFiles/tests-stage-1.dir
+/mnt/c/Users/slava/OneDrive/Documents/Studium/FEL SIT/FEL SIT 3/PCC/crusoe/cmake-build-debug/CMakeFiles/tests-stage-2.dir
+/mnt/c/Users/slava/OneDrive/Documents/Studium/FEL SIT/FEL SIT 3/PCC/crusoe/cmake-build-debug/CMakeFiles/tests-stage-3.dir
+/mnt/c/Users/slava/OneDrive/Documents/Studium/FEL SIT/FEL SIT 3/PCC/crusoe/cmake-build-debug/CMakeFiles/test.dir
+/mnt/c/Users/slava/OneDrive/Documents/Studium/FEL SIT/FEL SIT 3/PCC/crusoe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/slava/OneDrive/Documents/Studium/FEL SIT/FEL SIT 3/PCC/crusoe/cmake-build-debug/CMakeFiles/rebuild_cache.dir

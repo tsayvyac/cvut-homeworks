@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/sort.dir/sort.cpp.o -o sort 

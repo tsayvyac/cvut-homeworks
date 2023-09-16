@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "List",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tests-stage-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tests-stage-1-Debug-5780dd778af416c2e828.json",
+					"name" : "tests-stage-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tests-stage-2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tests-stage-2-Debug-535d8ddb8fb4f6c911e2.json",
+					"name" : "tests-stage-2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tests-stage-3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tests-stage-3-Debug-9c08c1ed2c12ab910456.json",
+					"name" : "tests-stage-3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tests-stage-4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tests-stage-4-Debug-7d4422340aa06c0fea67.json",
+					"name" : "tests-stage-4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tests-stage-5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tests-stage-5-Debug-39e7ad7f88f01d4164ac.json",
+					"name" : "tests-stage-5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/slava/OneDrive/Documents/Studium/FEL SIT/FEL SIT 3/trie/cmake-build-debug",
+		"source" : "/mnt/c/Users/slava/OneDrive/Documents/Studium/FEL SIT/FEL SIT 3/trie"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

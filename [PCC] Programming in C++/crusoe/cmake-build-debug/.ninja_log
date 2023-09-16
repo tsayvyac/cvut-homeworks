@@ -1,0 +1,26 @@
+# ninja log v5
+27	14369	6890261588276017	CMakeFiles/tests-stage-1.dir/tests-main.cpp.obj	238946ba70701ca2
+12	1764	6890261462276048	CMakeFiles/tests-stage-1.dir/crusoe.cpp.obj	3b96108da648eee3
+16	1670	6890261461206013	CMakeFiles/tests-stage-1.dir/tests-helper.cpp.obj	2d929e62c1a0e4f2
+7	2084	6890261465696031	CMakeFiles/tests-stage-1.dir/tests-crusoe-01.cpp.obj	fb19b88a16427963
+23	2455	6890261469396029	CMakeFiles/tests-stage-2.dir/tests-crusoe-02.cpp.obj	651dc73b9c92f5e3
+1765	2843	6890261473296032	CMakeFiles/tests-stage-2.dir/tests-helper.cpp.obj	7d550d574497d156
+14369	44321	6890261887986000	tests-stage-1.exe	a0cdcbf91e8b1ef1
+44	1827	6890261463046027	CMakeFiles/tests-stage-2.dir/crusoe.cpp.obj	4354601eba5086a3
+14994	44289	6890261887656000	tests-stage-2.exe	7518c66c9922f673
+1670	14994	6890261594536034	CMakeFiles/tests-stage-2.dir/tests-main.cpp.obj	3fa52063f999e54c
+13	1187	6890252293209036	CMakeFiles/tests-stage-3.dir/tests-helper.cpp.obj	a216f734606545f0
+5	1637	6891239471345950	CMakeFiles/tests-stage-3.dir/crusoe.cpp.obj	bb67821d2934b2d0
+3	820	6891176415431892	CMakeFiles/tests-stage-3.dir/tests-crusoe-03.cpp.obj	e344180c57af6169
+9	13596	6890252417045036	CMakeFiles/tests-stage-3.dir/tests-main.cpp.obj	f0522734c15a20fb
+1638	26966	6891239724562855	tests-stage-3.exe	b1e5c4cc6f9bf9f7
+19	1188	6891240346357476	CMakeFiles/tests-stage-1.dir/tests-helper.cpp.obj	2d929e62c1a0e4f2
+7	1630	6891240350789412	CMakeFiles/tests-stage-1.dir/crusoe.cpp.obj	3b96108da648eee3
+3	1636	6891240350829986	CMakeFiles/tests-stage-1.dir/tests-crusoe-01.cpp.obj	fb19b88a16427963
+23	1640	6891240350870502	CMakeFiles/tests-stage-2.dir/crusoe.cpp.obj	4354601eba5086a3
+11	1927	6891240353772350	CMakeFiles/tests-stage-2.dir/tests-crusoe-02.cpp.obj	651dc73b9c92f5e3
+1630	2392	6891240358443007	CMakeFiles/tests-stage-2.dir/tests-helper.cpp.obj	7d550d574497d156
+15	14426	6891240478482273	CMakeFiles/tests-stage-1.dir/tests-main.cpp.obj	238946ba70701ca2
+1189	14430	6891240478482273	CMakeFiles/tests-stage-2.dir/tests-main.cpp.obj	3fa52063f999e54c
+14426	43434	6891240768745442	tests-stage-1.exe	a0cdcbf91e8b1ef1
+14430	44035	6891240774785107	tests-stage-2.exe	7518c66c9922f673

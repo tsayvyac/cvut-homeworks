@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ArrPicture",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tests-stage-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tests-stage-1-Debug-6e44e6fc4b56dedb8ba4.json",
+					"name" : "tests-stage-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tests-stage-2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tests-stage-2-Debug-518fc4137a22d902d23f.json",
+					"name" : "tests-stage-2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tests-stage-3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tests-stage-3-Debug-104551b70940e1411766.json",
+					"name" : "tests-stage-3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tests-stage-4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tests-stage-4-Debug-0e2d30cf4f132b480b6c.json",
+					"name" : "tests-stage-4",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/slava/OneDrive/Documents/Studium/FEL SIT/FEL SIT 3/PCC/telescope/cmake-build-debug",
+		"source" : "/mnt/c/Users/slava/OneDrive/Documents/Studium/FEL SIT/FEL SIT 3/PCC/telescope"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

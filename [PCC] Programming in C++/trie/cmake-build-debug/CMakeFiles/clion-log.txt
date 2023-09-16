@@ -1,0 +1,10 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu-20.04 --exec /bin/bash -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd '/mnt/c/Users/slava/OneDrive/Documents/Studium/FEL SIT/FEL SIT 3/trie/cmake-build-debug' && /usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S '/mnt/c/Users/slava/OneDrive/Documents/Studium/FEL SIT/FEL SIT 3/trie' -B '/mnt/c/Users/slava/OneDrive/Documents/Studium/FEL SIT/FEL SIT 3/trie/cmake-build-debug'; exitcode=$?; sleep 0.001; (exit $exitcode)"
+-- The CXX compiler identification is GNU 9.4.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/slava/OneDrive/Documents/Studium/FEL SIT/FEL SIT 3/trie/cmake-build-debug

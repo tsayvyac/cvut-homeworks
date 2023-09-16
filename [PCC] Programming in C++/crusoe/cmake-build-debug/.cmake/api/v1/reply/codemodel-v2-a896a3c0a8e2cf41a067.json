@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Crusoe",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tests-stage-1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tests-stage-1-Debug-401b1acdd7016e1f45c7.json",
+					"name" : "tests-stage-1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tests-stage-2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tests-stage-2-Debug-7eeeda185504c9a0cb64.json",
+					"name" : "tests-stage-2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tests-stage-3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tests-stage-3-Debug-8d0e67e288763d0518e1.json",
+					"name" : "tests-stage-3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/slava/OneDrive/Documents/Studium/FEL SIT/FEL SIT 3/PCC/crusoe/cmake-build-debug",
+		"source" : "/mnt/c/Users/slava/OneDrive/Documents/Studium/FEL SIT/FEL SIT 3/PCC/crusoe"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
